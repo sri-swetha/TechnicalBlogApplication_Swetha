@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f2a667-3df1-4fda-b1ad-36a8b7ae9747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/HelloWorldApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upgrad/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/upgrad/service/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/HelloWorldApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/HelloWorldApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/upgrad/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/controller/PostController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/controller/PostController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/model/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/model/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upgrad/service/PostService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upgrad/service/PostService.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ImageHoster" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +95,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586613749368</updated>
-      <workItem from="1586613755047" duration="18578000" />
+      <workItem from="1586613755047" duration="21832000" />
+      <workItem from="1587633316245" duration="36668000" />
+      <workItem from="1588340112548" duration="3470000" />
     </task>
     <servers />
   </component>
@@ -89,10 +109,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/helloworld_servlet$HelloWorldApplication.ic" NAME="HelloWorldApplication Coverage Results" MODIFIED="1588079414361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>upgrad.*</FILTER>
+    </SUITE>
   </component>
 </project>
